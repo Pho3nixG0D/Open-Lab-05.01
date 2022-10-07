@@ -7,6 +7,7 @@ namespace Open_Lab_05._01
         public string Century(int year)
         {
             throw new NotImplementedException();
+            int i = 0;
         }
     }
 }
